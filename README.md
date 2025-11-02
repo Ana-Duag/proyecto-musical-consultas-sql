@@ -1,4 +1,5 @@
 ## PROYECTO MÓDULO 2: ProyectoMusicStream
+
 ### Descripción
 
 Este proyecto, realizado por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (año 2024)**, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
