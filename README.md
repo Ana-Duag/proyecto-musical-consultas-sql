@@ -1,7 +1,7 @@
 ## PROYECTO MÓDULO 2: ProyectoMusicStream
 ### Descripción
 
-Este proyecto, desarrollado por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab (presentación del proyecto en Septiembre de 2024), consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
+Este proyecto, realizado por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (año 2024)**, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
 
 Se extrajeron datos de artistas y canciones mediante las APIs.
 
@@ -11,9 +11,11 @@ Se realizaron distintas consultas SQL para analizar artistas, géneros musicales
 
 Se trabajó  con las tablas:
 
-artistas
+- artistas
 
-canciones
+- canciones
+
+---
 
 
 ## Consultas realizadas
@@ -67,6 +69,7 @@ Se selecciona la canción con más oyentes en cada año.
 
 Solo se incluyen los 4 géneros que queremos analizar o combinaciones entre ellos.
 
+---
 
 ## Tecnologías usadas
 
@@ -76,6 +79,7 @@ MySQL (volcado de datos y consultas).
 
 Git y GitHub (control de versiones).
 
+---
 
 ## Presentación del Proyecto (Genially)
 
