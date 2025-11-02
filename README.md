@@ -77,6 +77,6 @@ MySQL (volcado de datos y consultas).
 Git y GitHub (control de versiones).
 
 
-# Presentación del Proyecto (Genially)
+## Presentación del Proyecto (Genially)
 
 [Ver presentación](https://view.genially.com/68c08cbeff8b74cf1f73f4c2/presentation-go)
