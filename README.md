@@ -1,8 +1,8 @@
-# PROYECTO MUSIC STREAM
+# Proyecto Music Stream
 
-### Descripción
+## Descripción
 
-Este proyecto, realizado por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (2025)**, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
+Este proyecto, realizado por **Ana Dueñas** en el **Bootcamp de Análisis de Datos de Adalab (Septiembre 2025)**, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
 
 Se extrajeron datos de artistas y canciones mediante las APIs.
 
