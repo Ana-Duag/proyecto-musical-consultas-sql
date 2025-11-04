@@ -1,4 +1,4 @@
-## PROYECTO MÓDULO 2: ProyectoMusicStream
+## PROYECTO MUSIC STREAM
 
 ### Descripción
 
