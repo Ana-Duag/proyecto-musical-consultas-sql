@@ -1,8 +1,8 @@
-# Proyecto Music Stream. Popularidad de Canciones en la Era Digital.
-
-## Descripción
+# Popularidad de Canciones en la Era Digital
 
 ### Este proyecto ha sido desarrollado por **Ana Dueñas** ,Adalab, Septiembre 2025.
+
+## Descripción
 
 Consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
 
