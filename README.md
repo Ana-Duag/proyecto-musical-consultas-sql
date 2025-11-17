@@ -2,7 +2,9 @@
 
 ## Descripción
 
-Este proyecto, realizado por **Ana Dueñas** en el **Bootcamp de Análisis de Datos de Adalab (Septiembre 2025)**, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
+### Este proyecto ha sido desarrollado por **Ana Dueñas** ,Adalab, Septiembre 2025.
+
+Consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
 
 Se extrajeron datos de artistas y canciones mediante las APIs.
 
