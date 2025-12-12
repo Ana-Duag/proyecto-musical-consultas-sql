@@ -1,6 +1,6 @@
 # Popularidad de Canciones en la Era Digital
 
-### Este proyecto ha sido desarrollado por **Ana Dueñas** ,Adalab, Septiembre 2025.
+### Este proyecto ha sido desarrollado por Ana Dueñas Agudo ,Adalab, Septiembre 2025.
 
 ## Descripción
 
