@@ -1,6 +1,6 @@
 # Popularidad de Canciones en la Era Digital
 
-### Este proyecto ha sido desarrollado por Ana Dueñas Agudo ,Adalab, Septiembre 2025.
+### Este proyecto ha sido desarrollado por Ana Dueñas Agudo , Adalab, Septiembre 2025.
 
 ## Descripción
 
@@ -46,7 +46,6 @@ Devuelve las canciones más nuevas, comparando con el Top Track de cada artista.
 ### Consulta 5: Top 6 artistas con mayor número de oyentes en los géneros analizados, se incluye biografía y país
 
 
-
 ### Consulta 6: Top 5 países con mayor número de oyentes
 
 Se crea una tabla temporal con países y palabras clave.
@@ -81,6 +80,19 @@ Python (extracción desde APIs, creación de dataframes).
 MySQL (volcado de datos y consultas).
 
 Git y GitHub (control de versiones).
+
+---
+
+## Conclusiones
+
+Durante el desarrollo del proyecto se recopilaron datos de artistas, canciones y años a través de las APIs de Spotify y Last.fm.
+
+Para optimizar este proceso se implementó una automatización en Python que permitió extraer, transformar y cargar la información directamente en una base de datos SQL. 
+
+Posteriormente, se diseñaron consultas que facilitaron el análisis y la obtención de métricas relevantes. 
+
+Este flujo de trabajo no solo aseguró la integración y consistencia de los datos, sino que también demostró cómo el uso de herramientas de programación y bases de datos puede generar información clara, precisa y de valor para el cliente en la toma de decisiones.
+
 
 ---
 
